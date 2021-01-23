@@ -359,9 +359,9 @@ div .btn-personal:hover {
         bottom: -228px;
     }
 
-    .wrapper {
+    /* .wrapper {
         padding-top: 108px;
-    }
+    } */
 
     .container-notif {
         display: inline-block;
@@ -423,14 +423,39 @@ div .btn-personal:hover {
     }
 }
 
-@media (max-width: 678px) and (min-width: 480px) {
+@media (max-width: 480px) and (min-width: 380px) {
     .wrapper {
-        padding-top: 57px;
+        padding-top: 98px;
+    }
+}
+
+
+@media (max-width: 396px) and (min-width: 376px) {
+    .wrapper {
+        padding-top: 149px;
+    }
+}
+
+@media (max-width: 424px) and (min-width: 397px) {
+    .wrapper {
+        padding-top: 131px;
     }
 }
 
 @media (max-width: 343px) {
     .wrapper {
         padding-top: 142px;
+    }
+}
+
+@media (max-width: 588px) and (min-width: 480px) {
+    .wrapper {
+        padding-top: 80px;
+    }
+}
+
+@media (max-width: 479px) and (min-width: 460px) {
+    .wrapper {
+        padding-top: 78px;
     }
 }
