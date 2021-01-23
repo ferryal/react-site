@@ -53,6 +53,6 @@ export const personal = {
   subscription: {
     title: 'Get latest updates in web technologies',
     description: 'I write articles related to web technologies, such as design trends, development tools, UI/UX case studies and reviews, and more. Sign up to my newsletter to get them all',
-    button: 'Count Me In'
+    button: 'Count Me In!'
   }
 }

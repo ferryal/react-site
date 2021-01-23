@@ -55,7 +55,7 @@ const Subscription = () => {
 		<div className="wrapper-subscription">
 			<div className="center-subscription">
 				<div className={`card-subscription ${isHidden !== true ? 'slide-up-animation' : 'disapear-animation' }`}>
-					<div className="btn-close" onClick={handleHideSubscription}>X</div>
+					<div className="btn-close" onClick={handleHideSubscription}>x</div>
 					<div className="head-title">{subscription.title}</div>
 					<div className="desc-title">{subscription.description}</div>
 					<div className="wrapper-form">
