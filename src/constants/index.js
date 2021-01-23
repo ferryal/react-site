@@ -38,3 +38,21 @@ export const skills = [
 ];
 
 export const TEN_MINUTES_IN_MILISEC = 600000;
+
+export const personal = {
+  info: {
+    name: `Hello! I'm Ferryal`,
+    title: 'Consult, Design, and Develop Websites',
+    description: ['Have something great in mind? Feel free to contact me.', `I'll help you to make it happen.`],
+    button: `LET'S MAKE CONTACT`
+  },
+  skill: {
+    title: 'How Can I Help You?',
+    subtitle: 'Our work then targeted, best practices outcomes social innovation synergy. Venture philanthropy, revolutionary inclusive policymaker relief. User-centered program areas scale.'
+  },
+  subscription: {
+    title: 'Get latest updates in web technologies',
+    description: 'I write articles related to web technologies, such as design trends, development tools, UI/UX case studies and reviews, and more. Sign up to my newsletter to get them all',
+    button: 'Count Me In'
+  }
+}
